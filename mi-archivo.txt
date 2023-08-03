@@ -1,2 +1,2 @@
-¡Hola a todo el Mundo!
+¡Hola, Javascript!
 Estoy aprendiendo Git.
